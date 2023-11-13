@@ -1,0 +1,957 @@
+! 2022-06-07 https://deadline.com
+deadline.com##.a-wrapper.pmc-u-padding-a-1.u-box-shadow-medium.pmc-u-background-white.pmc-u-margin-b-0
+
+! 2022-06-07 https://strangerthings.fandom.com
+strangerthings.fandom.com##.sitenotice--visible.sitenotice
+
+! 2022-06-08 https://app.raindrop.io
+app.raindrop.io##.upgrade-R9fx
+
+! 2022-06-08 https://www-pinterest-es.translate.goog
+www-pinterest-es.translate.goog##.Hsu.iyn.zI7.qJc.p6V.ojN.jzS.gjz.fte.fev.dxm._he.PKX.Lej.LCN.Jea
+
+! 2022-06-08 https://www.youtube.com
+www.youtube.com##ytd-rich-section-renderer.ytd-rich-grid-renderer.style-scope
+
+! 2022-06-09 https://pos.toasttab.com
+pos.toasttab.com##.active.c-content-gate
+
+! 2022-06-09 https://www.reddit.com
+www.reddit.com##.TmgZY6tDcdErbE5d7E0HJ
+www.reddit.com##._1oRQu-aolgpPPJDblUGTw5
+www.reddit.com##._2vEf-C2keJaBMY9qk_BxVn > ._2QeqBqfT5UbHBoViZUt-wX._1G4yU68P50vRZ4USXfaceV
+
+! 2022-06-09 https://youtube.fandom.com
+youtube.fandom.com##.notifications-placeholder
+youtube.fandom.com##.jw-flag-small-player.jw-flag-user-inactive.jw-floating-dismissible.jw-breakpoint-0.jw-flag-aspect-mode.jw-stretch-uniform.jw-state-idle.jw-reset.jwplayer
+youtube.fandom.com###featured-video__player-container
+youtube.fandom.com###WikiaBar
+
+! 2022-06-09 https://windowsreport.com
+windowsreport.com##p:nth-of-type(21)
+
+jwcdn.com
+content.jwplatform.com
+
+! 2022-06-09 https://www.pcgamer.com
+www.pcgamer.com##.jwplayer__widthsetter
+
+! Code to remove Google Shopping links...
+! Remove from main tab bar (no need to remove nth-of-type(1) as that would only display if you're already on the shopping tab)
+google.ca,google.co.nz,google.co.uk,google.com.au,google.de,google.com##.hdtb-mitem > a[href*="&tbm=shop&"]
+! Remove from tab bar drop-down
+google.ca,google.co.nz,google.co.uk,google.com.au,google.de,google.com##.hdtb-mitem > .qs.q[href*="&tbm=shop&"]
+! Remove from Google Apps drop-down
+google.ca,google.co.nz,google.co.uk,google.com.au,google.de,google.com###gb6[href*="/shopping"]
+! Remove (*unknown location...)
+google.ca,google.co.nz,google.co.uk,google.com.au,google.de,google.com###gbmm[href*="&tbm=shop&"]
+! Remove from the no-script tab-bar
+google.ca,google.co.nz,google.co.uk,google.com.au,google.de,google.com##._Jhd._UXb[href*="&tbm=shop&"]
+
+! 2022-06-10 https://windowsdot.com
+windowsdot.com##.textwidget
+
+! 2022-06-10 https://ios.gadgethacks.com
+ios.gadgethacks.com##.centered-article-content.clearfix.article-container ul
+
+! 2022-06-10 https://prescriptionhope.com
+||prescriptionhope.com/wp-content/uploads/2021/04/Prescripion-Hope-Patient-Assistance-Programs-1.gif$image
+
+! 2022-06-13 https://www.cineplex.com
+www.cineplex.com##.jss28.jss17
+www.cineplex.com##.jss33.jss22
+www.cineplex.com##.jss13.jss2
+
+! 2022-06-13 https://www.windowscentral.com
+www.windowscentral.com###desktop-in-article
+www.windowscentral.com##.future__jwplayer--carousel
+www.windowscentral.com##.van_vid_carousel__container
+www.windowscentral.com##.vid-present.van_vid_carousel
+
+! 2022-06-13 https://appuals.com
+appuals.com##.wp-timed-p-content
+appuals.com##div.\39 bee406ab2d28ba12d1f54ec6777d022:nth-of-type(1)
+
+! 2022-06-14 https://windowsreport.com
+windowsreport.com##.bnr-block-1.bnr-block > .bnr-block
+
+! 2022-06-14 https://www.thewindowsclub.com
+www.thewindowsclub.com###ezmobfooter .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
+
+! 2022-06-14 https://bestgamingtips.com
+bestgamingtips.com###ezmobfooter .ezmob-footer-desktop.ezo_ad.ezoic-floating-bottom.ezmob-footer
+
+! 2022-06-14 https://app.spendee.com
+app.spendee.com##.nm2B
+
+! 2022-06-15 https://www.reddit.com
+www.reddit.com##._3HLyjC36ED_cOkMhS77Ts1.scrollerItem._3tZDqkm04pN0jRZCQWdnnj
+www.reddit.com##._3HLyjC36ED_cOkMhS77Ts1.scrollerItem.SS170RmKHoZuMMkJr141W
+
+! 2022-06-16 https://www.skipthedishes.com
+www.skipthedishes.com##.fVFaTa.styles__Root-mtz7dh-0 > div > .jss689.jss687
+www.skipthedishes.com##.fVFaTa.styles__Root-mtz7dh-0
+www.skipthedishes.com##.fxETuw.styles__Wrapper-sc-13ci9yx-0
+
+! 2022-06-17 https://www.reddit.com
+www.reddit.com##div._2vEf-C2keJaBMY9qk_BxVn:nth-of-type(3)
+www.reddit.com##._10wb7d3rGvj56Gcs4IQWL5._1FUNcfOeszr8eruqLxCMcR
+
+! 2022-06-17 https://www.dexerto.com
+www.dexerto.com###ad-desktop-article-top-leaderboard
+www.dexerto.com###ad-desktop-article-top-leaderboard-waterfall-page-1
+
+! 2022-06-19 https://www.razer.com
+www.razer.com##.has-components.SiteNotificationSlot
+
+! 2022-06-21 https://onlineticketing.cineplex.com
+onlineticketing.cineplex.com##.visible-lg.visible-md.right-col.col-sm-3.col-xs-12
+
+! 2022-06-27 https://www.sunnet.sunlife.com
+www.sunnet.sunlife.com##.in.interstitial-modal.slf-modal.fade.modal
+www.sunnet.sunlife.com##.slf-whimsical-title-bar.row
+
+! 2022-07-11 https://www.thewindowsclub.com
+www.thewindowsclub.com##.entry.tag-devices.category-windows.has-post-thumbnail.format-standard.status-publish.type-post.post.post-268619 > .widget
+www.thewindowsclub.com##.adtester-container-815.adtester-container.medrectangle-4815.medrectangle-4.ezoic-ad
+www.thewindowsclub.com##.entry-header > .widget
+
+! 2022-07-12 https://dashboard.ngrok.com
+dashboard.ngrok.com##.text-white.pb-6.pt-0.px-4.rounded-sm.m-4.border-ngrok-blue-6.bg-ngrok-blue-8.ant-card-bordered.ant-card
+
+! 2022-07-13 https://ark.fandom.com
+ark.fandom.com##.wikia-bar-anon.wikia-bar
+
+! 2022-07-13 https://marvelcinematicuniverse.fandom.com
+marvelcinematicuniverse.fandom.com##.WikiaBarWrapper
+
+! 2022-07-16 https://www.amazon.ca
+www.amazon.ca###nav-ab-cat-acquisition
+www.amazon.ca###nav-link-amazonprime
+
+! 2022-07-17 https://www.cheatsheet.com
+www.cheatsheet.com##.sticky-ad
+
+! 2022-07-19 https://www.cineplex.com
+www.cineplex.com##.jss163
+www.cineplex.com##.jss30.jss17
+www.cineplex.com##.jss35.jss22
+www.cineplex.com##.jss10
+www.cineplex.com##.jss117
+
+! 2022-07-20 https://www.hpprintersupportpro.us
+www.hpprintersupportpro.us##.sociala
+www.hpprintersupportpro.us###body-wrap
+
+! 2022-07-20 https://www.gapcanada.ca
+www.gapcanada.ca###wrapper-for-mobile-app
+
+! 2022-07-20 https://www.youtube.com
+www.youtube.com##ytd-download-button-renderer.ytd-menu-renderer.style-scope
+
+! 2022-07-20 https://www.paypal.com
+www.paypal.com###AB
+www.paypal.com##.cw_notifications__wrap.vx_hidden-phone
+
+! 2022-08-22 https://pos.toasttab.com
+pos.toasttab.com##.fade-in-three.u-spacing--and-half.c-article__body > .gated-cta.js-this.c-block--cta.c-block--inline.u-spacing--half.c-block
+
+! 2022-08-22 https://www.thespruceeats.com
+www.thespruceeats.com##.is-collapsed.leaderboard.gpt.mntl-gpt-adunit.mntl-flexible-ad.mntl-flexible-leaderboard.mntl-leaderboard-header.leaderboard--header.has-right-label.comp
+
+! 2022-08-24 https://www.glassdoor.ca
+www.glassdoor.ca##.hardsellOverlay
+
+! 2022-09-23 https://www.healthline.com
+||inline.healthline.com/r/ssr/628ff44a-cf14-4ba0-a759-9d66a738b95e$subdocument
+
+! 2022-10-02 https://linktr.ee
+linktr.ee##.beawbz.bhdLno.gTwjMh.SubscribeCta__AnimatedPill-sc-1j3njuo-0.sc-gsTCUz.sc-bdfBwQ
+
+! 2022-10-05 https://mail.proton.me
+mail.proton.me##.bg-primary.no-print.text-bold.relative.text-center.flex-nowrap.flex-item-noshrink.flex
+
+! 2022-10-05 https://www.google.ca
+www.google.ca##.MiniLTrendRank
+www.google.ca##.GoogleSERP.NewTabSwitch
+
+! 2022-10-05 https://vpnoverview.com
+vpnoverview.com##.MoreLikeThisRollingTrigger
+
+! 2022-10-06 https://www.ellecanada.com
+www.ellecanada.com##[href^="https://www.ellecanada.com/contests.php"]
+
+! 2022-10-13 https://app.any.do
+app.any.do##.y7uuG-XaV6P2KUFoWsOccA\=\=
+
+! 2022-10-13 https://www.peakpx.com
+www.peakpx.com##li.ad316.list_ads.grid:nth-of-type(1)
+www.peakpx.com##li.ad316.list_ads.grid:nth-of-type(3)
+
+! 2022-10-16 https://www.pornhub.com
+www.pornhub.com##div.sectionWrapper:nth-of-type(5)
+
+! 2022-10-16 https://www.therapistaid.com
+www.therapistaid.com##.ta__custom-card
+||www.therapistaid.com/images/promo/interactives-02-lg.png$image
+www.therapistaid.com##div.w-100.float-l:nth-of-type(12)
+www.therapistaid.com##.element-spacing--b.ta__list-image--lg
+www.therapistaid.com##.ga--300-left
+www.therapistaid.com##.margin-t-12.inline.w-100
+
+! 2022-10-18 https://printables.hp.com
+printables.hp.com##div.czyLPK.sc-ctqQKy:nth-of-type(8)
+printables.hp.com##div.czyLPK.sc-ctqQKy:nth-of-type(3)
+
+! 2022-10-19 https://www.amazon.ca
+www.amazon.ca##.a-ws-span-last.a-span-last.a-ws-span4.a-span4.a-column > .a-row
+www.amazon.ca##.a-ws-span8.a-span8.a-column > .a-row
+
+! 2022-10-22 https://www.jotform.com
+www.jotform.com##.fixed.section-widget-footer
+
+! 2022-10-25 https://www.moneysense.ca
+www.moneysense.ca##.credit-card-cta-scenario-chooser
+www.moneysense.ca##.post--item--ad2.alignfull.wrapper.grid.ad--injected.white.section-padding.full-width-banner
+www.moneysense.ca##section.content-container--after-injected.content-container.grid.wrapper > .advertisement_right.hide-mobile.rail.post-skyscraper-ad
+
+! 2022-10-25 https://app.spendee.com
+app.spendee.com##._3-3P
+
+! 2022-10-25 https://www.google.com
+www.google.com##div.UK95Uc.Z26q7c:nth-of-type(3)
+www.google.com##div.ULSxyf:nth-of-type(3)
+
+! 2022-10-25 https://www.sunnet.sunlife.com
+www.sunnet.sunlife.com###RtdmOffer-box-441310201_50D65D7677FEF73DA92015325F7F45B6
+www.sunnet.sunlife.com###RtdmOffer-box-441310201_159758326030CCAF219262636D880FB0
+
+! 2022-10-25 https://www.amazon.ca
+www.amazon.ca##.nav-flyout.nav-prime-tt
+
+! 2022-10-28 https://www.levi.com
+www.levi.com##.lsco-col-lg-7.lsco-col-12.utility-bar__promo > .carousel
+
+! 2022-10-28 https://www.amazon.ca
+www.amazon.ca##.s-flex-full-width.AdHolder.s-widget-spacing-large.s-widget.s-result-item
+www.amazon.ca##div.s-widget-spacing-large.sg-col-12-of-16.s-flex-geom.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item:nth-of-type(10)
+www.amazon.ca##div.s-widget-spacing-large.sg-col-12-of-16.s-flex-geom.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item:nth-of-type(11)
+www.amazon.ca##div.sg-col-4-of-20.s-widget-spacing-small.sg-col.AdHolder.sg-col-4-of-16.s-asin.s-result-item.sg-col-4-of-12 > .sg-col-inner
+
+! 2022-10-28 https://www.kijiji.ca
+www.kijiji.ca##.lisrp-2.sponsored-ad-container.with-2-banners.afs-with-thumbnail.text-container
+www.kijiji.ca##div.third-party
+www.kijiji.ca##.sponsored-2251729188
+www.kijiji.ca##div.adCardContainer-3030960004.cardContainer-1887874833 > .containerWrapper-4200356857 > .container-4289908283.link__default-1151936189.link-3970392289
+
+! 2022-10-28 https://openbox.ca
+openbox.ca###PopupSignupForm_0
+
+! 2022-10-28 https://www.google.com
+www.google.com##.qGXjvb
+www.google.com##.VjDLd.commercial-unit-desktop-rhs.ptJHdc
+
+! 2022-10-28 https://www.amazon.ca
+www.amazon.ca##div.s-widget-spacing-large.sg-col-12-of-16.s-flex-geom.sg-col.s-widget.sg-col-16-of-20.sg-col-0-of-12.s-result-item:nth-of-type(12)
+
+! 2022-11-02 https://www.kijiji.ca
+
+! 2022-11-02 https://www.youtube.com
+www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-ad-slot-renderer.style-scope
+
+! 2022-11-02 https://www.staples.ca
+
+! 2022-11-02 https://www.youtube.com
+www.youtube.com###main-container
+www.youtube.com##ytd-search-pyv-renderer.ytd-item-section-renderer.style-scope
+
+! 2022-11-02 https://www.youtube.com
+www.youtube.com##.sparkles-light-cta.ytd-item-section-renderer.style-scope
+
+! 2022-11-06 https://himovies.top
+himovies.top##.mb-3.alert
+
+! 2022-11-08 https://www.amazon.ca
+www.amazon.ca###productAlert_feature_div
+
+! 2022-11-09 https://www.kijiji.ca
+www.kijiji.ca##.embedded.top-feature.search-item
+www.kijiji.ca##.utility-row
+www.kijiji.ca##.top-feature-top-bar
+www.kijiji.ca##.promoteAd-3470154555
+www.kijiji.ca##.detailsContainer-3691285501
+
+! 2022-11-14 https://www.amazon.ca
+www.amazon.ca###rhf-shoveler
+
+! 2022-11-14 https://pdfpremiumfree.com
+pdfpremiumfree.com##.in.fade.modal.reader-modal
+
+! 2022-11-14 https://www.etsy.com
+www.etsy.com##div:nth-of-type(19)
+
+! 2022-11-14 https://app.hubspot.com
+app.hubspot.com###isc-zorse-widget
+
+! 2022-11-15 https://dashboard.ngrok.com
+dashboard.ngrok.com##.text-white.pb-6.pt-0.px-4.border.rounded-sm.m-4.relative.border-ngrok-blue-6.bg-ngrok-blue-8
+
+! 2022-11-15 https://www.bkstr.com
+www.bkstr.com##ef-store > ef-aem-component
+
+! 2022-11-15 https://www.kijiji.ca
+www.kijiji.ca##.showSrpSurvey-4195466641.container-1627859372
+
+! 2022-11-15 https://www.g2a.com
+www.g2a.com##.gQLsnO.indexes__StyledWrapper-wklrsw-188 > .Section_section--width-auto__3jRqt.Section_section--align-left__35jvK.Section_section__nA6bz
+
+! 2022-11-22 https://windowsreport.com
+windowsreport.com##.wrai-b-1.wrai-b
+windowsreport.com###sfbnr
+
+! 2022-11-22 https://you.com
+you.com##div.NSnIm.sc-68b3b28b-1:nth-of-type(2)
+you.com##.bNTfYx.sc-e9fb3041-0
+you.com##div.NSnIm.sc-68b3b28b-1:nth-of-type(1)
+you.com##.jfIsYo.sc-97b9a379-0
+
+! 2022-11-22 https://www.eurogamer.net
+www.eurogamer.net###onetrust-consent-sdk
+
+! 2022-11-24 https://you.com
+you.com##.cQxsEf.sc-993ebaff-1
+
+! 2022-11-26 https://tecoreviews.com
+tecoreviews.com##.sticky-inside.main-sidebar.section
+
+! 2022-11-26 https://you.com
+you.com##.hpIWZO.sc-68b3b28b-0
+
+! 2022-11-30 https://www.youtube.com
+www.youtube.com##.ytd-rich-item-renderer.style-scope > .ytd-feed-nudge-renderer.style-scope
+
+! 2023-01-31 https://www.wikiwand.com
+www.wikiwand.com##.footer_donation__Cje_Q
+
+! 2023-02-03 https://support.hp.com
+support.hp.com##.open.hide.notifications-bg
+
+! 2023-02-03 https://you.com
+you.com##.dFpxqZ.sc-97b9a379-1.app-tile.fodWBq.sc-ed43b2a7-0
+you.com##.dSfyvu.sc-99a0f676-0.app-tile.fodWBq.sc-ed43b2a7-0
+
+! 2023-02-12 https://www.etonline.com
+www.etonline.com##.sidebar.story__sidebar
+
+! 2023-03-01 https://www.linkedin.com
+www.linkedin.com##.mb4.jobs-home-galapagos-promo-board
+www.linkedin.com##.mb4.jobs-home-galapagos-promo-board
+www.linkedin.com##.artdeco-toasts_toasts
+
+! 2023-03-15 https://ca.indeed.com
+ca.indeed.com###mosaic-inline
+
+! 2023-03-15 https://www.indeed.com
+www.indeed.com##div.eu4oa1w0.css-1sui2ii:nth-of-type(3)
+www.indeed.com##div.eu4oa1w0.css-1sui2ii:nth-of-type(4)
+www.indeed.com##p.e1wnkr790.css-1g5t2dl.rich-text-component:nth-of-type(4)
+www.indeed.com##p.e1wnkr790.css-1g5t2dl.rich-text-component:nth-of-type(15)
+
+! 2023-03-25 https://www.yelp.com
+www.yelp.com##section.border-color--default__09f24__NPAKY.border--top__09f24__exYYb.padding-t4__09f24__Y6aGL.margin-t4__09f24__G0VVf:nth-of-type(2)
+
+! 2023-04-02 https://shop.lululemon.com
+shop.lululemon.com##.mega-nav_bannerWrapper__33Ez3.OneLinkNoTx
+
+! 2023-04-02 https://ok.ru
+ok.ru##.modal-layer__w9hfw
+
+! 2023-04-13 https://ca.indeed.com
+ca.indeed.com###mosaic-JobFeed2
+
+! 2023-04-14 https://help.instagram.com
+help.instagram.com##.xixxii4.x1mh8g0r.xat24cr.x11i5rnm.xdj266r.x108pis8.x1jn9clo
+
+! 2023-04-18 https://www.primevideo.com
+www.primevideo.com##div._9ZO7CZ:nth-of-type(30)
+www.primevideo.com##div.\+OSZzQ:nth-of-type(32)
+||m.media-amazon.com/images/S/sonata-images-prod/ROW_TVOD_HOME_CINEMA_CA/c2d44f6c-6448-4fce-800d-01e7c7dfc32e._SX*0_FM*_.jpeg$image
+www.primevideo.com##section.boWXU\+.vVQ5BU:nth-of-type(3)
+www.primevideo.com##div.\+OSZzQ:nth-of-type(60)
+
+! 2023-05-08 https://www5.himovies.to
+||i.imgur.com/Uhe0q3g.gif$image
+www5.himovies.to##.mb-3.alert
+
+! 2023-05-11 https://myaccount.microsoft.com
+myaccount.microsoft.com##.main-245.ms-Dialog-main
+myaccount.microsoft.com##.root-244.ms-Dialog.is-open.ms-Modal
+
+! 2023-05-11 https://account.microsoft.com
+account.microsoft.com##.css-211.ms-Stack
+
+! 2023-06-01 https://www.pornhub.com
+www.pornhub.com###videoSearchResult > .alpha
+www.pornhub.com###headerMainMenuInner
+www.pornhub.com###headerMenuContainer
+www.pornhub.com###js-networkBar
+
+! 2023-06-01 https://www.youtube.com
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(1)
+www.youtube.com##ytd-reel-shelf-renderer.ytd-item-section-renderer.style-scope:nth-of-type(2)
+
+! 2023-06-04 https://www.masterclass.com
+www.masterclass.com##.Sticky_bottomBg__eb7aQ.Sticky_stickyActive__0G1oI.Sticky_bottom__sO4k5.Sticky_sticky__c9Bas
+www.masterclass.com##.Sticky_topBg__tftn9.Sticky_stickyActive__0G1oI.Sticky_top__lMat1.Sticky_sticky__c9Bas
+
+
+! 2023-06-08 https://www5.himovies.to
+www5.himovies.to###hgiks-top
+www5.himovies.to##.st-inline-share-buttons.st-hidden.st-has-labels.st-center.sharethis-inline-share-buttons
+www5.himovies.to##.text-home-main > p
+
+! 2023-06-08 https://www.latimes.com
+www.latimes.com###modality-910134382211
+www.latimes.com###modality-721529757523
+
+! 2023-06-08 https://www.skipthedishes.com
+www.skipthedishes.com##.kNhELD.styles__Notifications-ygaryr-0
+
+! 2023-06-08 https://www.reddit.com
+www.reddit.com##.promotedlink.t3_z\=gAAAAABkghDfkphau-sqSXY0QfqHMizthO4iCYksM20_V2vdzrdrViNUkinVbWzgdYU0G0Nuoe0PQsEa7_VRxPDyqMNGPgT9yR2o_UXY98qdWHKM7FRi3OBtMHP4hhEYPbaNPCtdW7U-WzPFlYhpxR6vE9Fi2K7rrUkeNv-LPpYDSAIv_ou1oiZtkArIY-qOBcjKz79Cwly2aVpOR7EFBgB_LHUwE3lzPvs6o2iKlKHhjqI4i076flDniSBAW9-_uDeT8H850r09LQ449S2GVotQzqa42YkFOiLzTt_iHGPm9cbsRQmbWKgPuSI9BT61u8NNTFRBXEFCyNivooEPvhbk04XbqXKcqsg918DgsoRmoLNrPGs-udTWgdp9NnbFrEFdkayb4JH1_rQ8uWYhizezRtuBwygdjQ\=\=.Post._1oQyIsiPHYt6nx7VOmd1sz
+
+! 2023-06-10 https://www.reddit.com
+www.reddit.com##.promotedlink.t3_z\=gAAAAABkg9og-57PvoAFP_0-nRrjMlyBFCRF5wMw1S6YOumJPehdcxFNSUl29Pr5Sj0skZ2ycEMCvWERMTD2BDmoDtxEGUQRATVPUS-l5sxqVQawji71BQ6ey_tSHF4jrdzI_waAxcgoFjdsVQwpVRI56W_cXIXip7O3vYLfN5WgZ_KgoejQpRn-Jo5MSCGbqu4_rXW6B9tHUUyCQVdVTaKppVUinwOULmZuyA_J69w1_G4LIDz1L9T8z5q2u6WtPUDxXQeQN_1NMTi3mOvcBLwy1ZAuaMhP0nRO9RLqXT2iqX04UpgeLrA15ClwSpdT3Nhoy8QqG43H2Hrk55UL4nbdzYe6bAYCUQ\=\=.Post._1Qs6zz6oqdrQbR7yE_ntfY._1qftyZQ2bhqP62lbPjoGAh._3Qkp11fjcAw9I9wtLo8frE.scrollerItem._1RYN-7H8gYctjOQeL8p2Q7._1oQyIsiPHYt6nx7VOmd1sz
+www.reddit.com##.promotedlink
+
+! 2023-06-15 https://www.ubereats.com
+www.ubereats.com##.ln.e4.al.d4.at.e5.ar
+
+! 2023-06-15 https://www.youtube.com
+www.youtube.com##ytd-ad-slot-renderer.ytd-item-section-renderer.style-scope
+
+! 2023-06-18 https://www.google.com
+www.google.com##.box-promo.extension-box
+
+! 2023-06-22 https://www.youtube.com
+www.youtube.com##ytd-menu-service-item-download-renderer.ytd-menu-popup-renderer.style-scope
+www.youtube.com##ytd-menu-service-item-download-renderer.ytd-menu-popup-renderer.style-scope
+
+! 2023-06-23 https://fastandfurious.fandom.com
+fastandfurious.fandom.com##.eLxlp.DesktopArticleVideoPlayer__DesktopArticleVideoTopPlaceholder-sc-11673vn-0
+fastandfurious.fandom.com###featured-video__player-container
+fastandfurious.fandom.com##.top-ads-container
+fastandfurious.fandom.com##.is-loading.incontent-leaderboard.ad-slot-placeholder
+
+! 2023-06-24 https://www5.himovies.to
+||valueclick.cc/embed/news$subdocument
+www5.himovies.to##section.block_area_home.block_area:nth-of-type(1)
+
+! 2023-06-27 https://www.ubereats.com
+www.ubereats.com##.b0.ni.ev.nh.ng.ar
+
+! 2023-06-28 https://www.ubereats.com
+www.ubereats.com##.b0.n5.e2.n4.n3.ar
+
+! 2023-06-29 https://movieweb.com
+movieweb.com###dynamically-injected-refresh-ad-zone-div-gpt-ad-1528733612385-eer-REPEAT4 > .ad-current
+movieweb.com###adsninja-ad-zone-div-gpt-ad-1528733612385-eer-REPEAT5
+
+! 2023-06-29 https://www.citationmachine.net
+www.citationmachine.net###--ucf-upload-widget-modal-container
+
+! 2023-06-29 https://www.amazon.ca
+||m.media-amazon.com/images/S/pv-target-images/5f8a1d9d04bca2b3398d48c19ea0c71dc1b2c307848e1f94796a14be1a181cc9._AC_SL792_.jpg$image
+www.amazon.ca###gw-layout > .gw-card-layout.a-spacing-none.a-section
+
+! 2023-07-01 https://soap2day.mn
+||s3.bunnycdn.ru/assets/_bnx/anix_7xx.gif$image
+
+! 2023-07-01 https://setapp.com
+setapp.com##.jumbotron_light-dusk.jumbotron
+setapp.com##.jumbotron_light-dusk.jumbotron
+setapp.com##.application-page__how-to > .jumbotron
+setapp.com##.col-xl-7.col-lg-6.col-sm-7
+
+! 2023-07-01 https://www.skipthedishes.com
+www.skipthedishes.com##.edewnJ.styles__TopPlacementRestaurantWrapper-sc-169f6e3-0
+www.skipthedishes.com##.react-swipeable-view-container
+
+! 2023-07-01 https://www.ubereats.com
+www.ubereats.com##.n8.b5.c5.am.al
+
+! 2023-07-05 https://soap2day.mn
+||s3.bunnycdn.ru/assets/_bnx/mangafire_7xx.gif$image
+
+! 2023-07-10 https://ca.indeed.com
+ca.indeed.com##.eu4oa1w0.css-u74ql7.microContentQuestion
+
+! 2023-07-10 https://m5.apply.indeed.com
+m5.apply.indeed.com##.eu4oa1w0.css-u74ql7.microContentQuestion
+
+! 2023-07-11 https://www.kawaiistaciemods.com
+www.kawaiistaciemods.com##comp-lbcxfuob
+www.kawaiistaciemods.com##.wix-blog-hide-in-print.WzbAF8.comp-lbcwii0v
+www.kawaiistaciemods.com###comp-kawja3jo > .wixui-rich-text__text.font_2
+||static.wixstatic.com/media/46c7ed_631c8810ed1b4330813658716e40daad~mv2.gif$image
+www.kawaiistaciemods.com##.wixui-rich-text.comp-kawjaqky.tz5f0K.KcpHeO
+
+! 2023-07-12 https://www.amazon.ca
+www.amazon.ca##.sc-java-remote-feature.a-spacing-medium.a-section
+
+! 2023-07-13 https://searchengineland.com
+searchengineland.com###div-gpt-ad-3191538-5
+
+! 2023-07-13 https://www.amazon.ca
+www.amazon.ca##.pd_rd_r-a0ffc997-38d5-4ef0-9a96-813021b47602.pd_rd_wg-sh5J1.pf_rd_r-YQY5TR5WV6TD8CTX0HVC.pf_rd_p-f129b8f2-9c2e-4e9d-91d5-22e927b23a0f.content-id-amzn1\.sym\.f129b8f2-9c2e-4e9d-91d5-22e927b23a0f.pd_rd_w-JboQ2.celwidget > .text\/x-dacx-safeframe.celwidget.copilot-secure-display
+www.amazon.ca###issuancePriceblockAmabot_feature_div
+
+! 2023-07-13 https://the-blacklist.fandom.com
+the-blacklist.fandom.com##.marketing-notifications
+the-blacklist.fandom.com##.eLxlp.DesktopArticleVideoPlayer__DesktopArticleVideoTopPlaceholder-sc-11673vn-0
+the-blacklist.fandom.com###featured-video__player-container
+
+! 2023-07-14 https://the-boys.fandom.com
+the-boys.fandom.com##.top-ads-container
+the-boys.fandom.com##.eLxlp.DesktopArticleVideoPlayer__DesktopArticleVideoTopPlaceholder-sc-11673vn-0
+the-boys.fandom.com###featured-video__player-container
+
+! 2023-07-15 https://the-boys.fandom.com
+the-boys.fandom.com##.is-loading.incontent-leaderboard.ad-slot-placeholder
+
+! 2023-07-17 https://www.windowsdigitals.com
+www.windowsdigitals.com##.adthrive-content.adthrive-ad
+www.windowsdigitals.com###cls-video-container-FkyEe9pT
+
+! 2023-07-18 https://www.ubereats.com
+www.ubereats.com##.b0.pa.e2.p9.p8.ar
+
+! 2023-07-20 https://www.cinemablend.com
+www.cinemablend.com##.ad-unit.in-article
+
+! 2023-07-20 https://www.imdb.com
+www.imdb.com###supertab > .cornerstone_slot
+www.imdb.com###sidebar
+
+! 2023-07-20 https://www.amazon.ca
+www.amazon.ca##.maple-banner--border.maple-banner--background.maple-banner__container.a-section
+
+! 2023-07-20 https://www.nellaonline.com
+www.nellaonline.com##.announcement-bar-link
+www.nellaonline.com###shopify-section-static-announcement
+
+! 2023-07-20 https://www.amazon.ca
+www.amazon.ca##.prime-ad-banner-content.a-spacing-mini.a-row
+
+! 2023-07-21 https://you.com
+you.com##.coUaSg.sc-ad6655b6-0
+
+! 2023-07-21 https://www.linkedin.com
+www.linkedin.com##.artdeco-card.launchpad-v2-multi-content-layout__carousel-card.launchpad-v2-card
+www.linkedin.com##.feed-identity-module__premium-cta-text
+www.linkedin.com##.text-align-left.link-without-hover-state.t-bold.t-black.t-12.feed-identity-module__anchored-widget--premium-upsell.feed-identity-module__anchored-widget.link-without-visited-state.app-aware-link
+
+! 2023-07-21 https://www.amazon.ca
+www.amazon.ca###b2bUpsell_feature_div
+www.amazon.ca###rightRail
+
+! 2023-07-21 https://www.facebook.com
+www.facebook.com##.x1n2onr6.xg6iff7.xdt5ytf.x78zum5
+
+! 2023-07-21 https://www.google.ca
+||ogs.google.ca/u/0/widget/callout/sid$subdocument
+
+! 2023-07-21 https://www.google.com
+www.google.com##[src="https://ogs.google.com/u/0/widget/callout/sid?prid=19022624&pgid=19022622&puid=5e98bbdc2e100536&dc=1&origin=https%3A%2F%2Fwww.google.com&cn=callout&pid=1&spid=2&hl=en"]
+
+! 2023-07-21 https://www.masterclass.com
+www.masterclass.com##.mc-pb-9
+www.masterclass.com###email-capture
+www.masterclass.com##.tracking-container
+
+! 2023-07-23 https://www.instacart.ca
+www.instacart.ca##.e-19ewqfx
+
+! 2023-07-23 https://www.realcanadiansuperstore.ca
+www.realcanadiansuperstore.ca##.island-block--ProductGrid.island-block
+
+! 2023-07-23 https://www.instacart.ca
+www.instacart.ca##div.__reakit-portal:nth-of-type(9)
+www.instacart.ca##.e-1iirpu8
+www.instacart.ca##.e-1x8jirg
+
+! 2023-07-23 https://www.google.ca
+www.google.ca##.box-promo.extension-box
+
+! 2023-07-23 https://outlook.office.com
+outlook.office.com###obf-ToastContainer
+
+! 2023-07-27 https://www.amazon.ca
+www.amazon.ca##.a-section-expander-container.s-alert-expander-border-top-info.a-expander-section-container.a-spacing-none.a-expander-container.a-row
+
+! 2023-07-29 https://www.ubereats.com
+www.ubereats.com##.o7.b5.c5.am.al
+
+! 2023-07-29 https://www.skipthedishes.com
+www.skipthedishes.com##.ieaIaA.styles__Notifications-sc-ygaryr-0
+
+! 2023-08-03 https://www.tiktok.com
+www.tiktok.com##.ejkrawn0.css-1vrbodl-DivPromotionContainer
+
+! 2023-08-03 https://linktr.ee
+linktr.ee##.dXOkCJ.hzGaqJ.sc-euMpXR.sc-bdfBwQ
+
+! 2023-08-07 https://www.facebook.com
+www.facebook.com##.x1u8a7rm.xh8yej3.x17qophe.xixxii4.x1ye3gou.x1s14bel.xn6708d.x1xy6bms.x9f619.xayqjjm.x1ey2m1c.x2bj2ny
+
+! 2023-08-07 https://genius.com
+genius.com##.hOMcjE.DfpAd__Container-sc-1tnbv7f-0
+genius.com##div.cujBpY.InreadContainer__Container-sc-19040w5-0
+genius.com##.jOhzET.Leaderboard__LeaderboardOrMarquee-da326u-0.dIgauN.LeaderboardOrMarquee__Sticky-yjd3i4-0
+
+! 2023-08-08 https://www.dailymail.co.uk
+www.dailymail.co.uk##.watermark.billboard-container
+www.dailymail.co.uk##ad-slot
+www.dailymail.co.uk##.connatix-wrapper
+www.dailymail.co.uk##.sticky-container
+www.dailymail.co.uk##.watermark.mpu_puff_wrapper
+www.dailymail.co.uk###sky-right-container
+www.dailymail.co.uk###sky-left-container
+www.dailymail.co.uk###most-watched-videos
+
+! 2023-08-10 https://genius.com
+genius.com##.gNhDlQ.SongPage__FeedbackBanner-sc-19xhmoi-2
+
+! 2023-08-13 https://www.forbes.com
+www.forbes.com##div.amp-ad-container
+www.forbes.com##i-amphtml-sizer
+www.forbes.com##.marketPlace.recirc-module
+www.forbes.com##.ad-unit.article-speedbump
+www.forbes.com##.medianet-loader
+www.forbes.com##.ad-unit.medianet-wrapper
+
+! 2023-08-15 https://www.thespruceeats.com
+www.thespruceeats.com###mntl-leaderboard-header_1-0
+
+! 2023-08-16 https://www.escoffier.edu
+www.escoffier.edu###emergency-bar
+www.escoffier.edu###top-nav-wrap
+
+! 2023-08-18 https://www.grammarly.com
+www.grammarly.com##.tool__product_user_type.tool__product
+
+! 2023-08-24 https://www.videogamer.com
+www.videogamer.com###AdThrive_Content_6_desktop
+www.videogamer.com###AdThrive_Content_7_desktop
+
+! 2023-08-26 https://www.skipthedishes.com
+www.skipthedishes.com##.hKqfaa.styles__Wrapper-sc-13ci9yx-0
+
+! 2023-08-26 https://www.merriam-webster.com
+www.merriam-webster.com##.games-landing-page-redesign-container
+
+! 2023-08-26 https://www.apnatoronto.com
+www.apnatoronto.com###ezmobfooter
+www.apnatoronto.com##.adtester-container-110.adtester-container
+www.apnatoronto.com##.elementor-divider
+www.apnatoronto.com##.elementor-widget-text-editor.elementor-widget.elementor-element-95471a5.elementor-element > .elementor-widget-container
+www.apnatoronto.com##.elementor-widget-html.elementor-widget.elementor-hidden-phone.elementor-element-2e3997f4.elementor-element
+
+! 2023-09-05 https://www.womenshealthmag.com
+www.womenshealthmag.com##.e152u5os0.css-1f32s77.e1tmud0h2.listicle-slide-list-ad.breaker-ad.gpt-breaker-container
+
+! 2023-09-09 https://www.makeuseof.com
+www.makeuseof.com##.ad-loading.ad-zone-container-loading-animation-enabled.ad-zone-container-background-details-enabled.adsninja-ad-zone-container-with-set-height.ad-zone-container-content-below-first-paragraph.ad-zone-container
+www.makeuseof.com##.ad-zone-sidebar-first.ad-zone
+www.makeuseof.com###dynamically-injected-refresh-ad-zone-adsninja-ad-unit-1692736309979-60388e2a2a3c9c > .ad-current
+www.makeuseof.com##.ad-current
+
+! 2023-09-14 https://www.onceuponachef.com
+www.onceuponachef.com##.adthrive-ad
+
+
+! 2023-08-21 https://soap2day.id
+soap2day.id##.text-center.mb-3 > [href] > [src]
+
+! 2023-08-22 https://www.thespruceeats.com
+
+! 2023-08-24 https://www.nexusmods.com
+www.nexusmods.com##.container.premium-banner
+
+! 2023-08-26 https://www.bbc.com
+www.bbc.com###features-label-aside-content > .e1ia0oo99.ssrcss-ykosa2-OnwardJourneysContainerWrapper > .e1ia0oo98.ssrcss-kgm8vt-PromoGroupWrapper > .e1y4nx260.ssrcss-1020bd1-Stack
+www.bbc.com##.e1ia0oo98.ssrcss-fw358t-PromoGroupWrapper > .e1y4nx260.ssrcss-1020bd1-Stack
+www.bbc.com##.e1y4nx260.ssrcss-1020bd1-Stack
+www.bbc.com##.e1mcntqj3.ssrcss-115e9m-StyledZone
+
+! 2023-09-02 https://www.quora.com
+www.quora.com##div.qu-bg--raised.qu-mb--small.qu-boxShadow--small.qu-borderColor--raised.qu-borderRadius--small.qu-borderAll.q-box > .q-box
+www.quora.com##div.q-box > .qu-borderBottom.qu-pb--medium.q-box
+www.quora.com##.hCJEkV.PageContentsLayout___StyledBox-d2uxks-0.qu-pb--medium.q-sticky.qu-overflowX--hidden.qu-overflowY--auto.q-box > .q-box
+www.quora.com###mainContent > .qu-mt--small.q-box
+www.quora.com##.qu-bg--raised.qu-mb--small.qu-boxShadow--small.qu-borderColor--raised.qu-borderRadius--small.qu-borderAll.dom_annotate_question_answer_item_3.q-box > div > div > div > .q-box > .q-box > div > .iyYUZT.ClickWrapper___StyledClickWrapperBox-zoqi4f-0.qu-tapHighlight--none.qu-display--block.q-click-wrapper
+
+! 2023-09-02 https://www.skipthedishes.com
+www.skipthedishes.com##.fxCtBt.styles__Root-sc-mtz7dh-0
+
+! 2023-09-05 https://www.coursera.org
+www.coursera.org##.rc-StickyBanner
+www.coursera.org##.css-qkf5zc.rc-EntWebsitePage > div > div > div > .css-1ng3sy.BlockLayout_Container
+
+! 2023-09-06 https://www.kijiji.ca
+www.kijiji.ca##.ofGHb.sc-58853b75-0
+www.kijiji.ca##.jOwRwk.sc-58853b75-0
+www.kijiji.ca##.gqNGFh.sc-b23cd4a3-0
+www.kijiji.ca##.drjHLz.sc-e1274c39-1
+
+! 2023-09-06 https://wickededgeusa.com
+wickededgeusa.com##.is-visible.product-quick-add
+
+! 2023-09-06 https://www.korin.com
+www.korin.com##div.in.bootbox-alert.fade.modal.bootbox
+
+! 2023-09-06 https://www.makeuseof.com
+www.makeuseof.com###ad-zone-container-adsninja-ad-unit-belowFirstParagraph-5ff2326692664c
+
+! 2023-09-07 https://www.canadacomputers.com
+www.canadacomputers.com###header-top
+
+! 2023-09-16 https://www.cozymeal.com
+www.cozymeal.com##.text-center.container-fluid
+www.cozymeal.com##.banner-mobile-oneline.text-uppercase
+www.cozymeal.com##.top-nav-container
+www.cozymeal.com##.navbar-fixed-top.navbar-default.navbar
+
+! 2023-09-17 https://music.apple.com
+music.apple.com###scrollable-page > .svelte-105opk8
+
+! 2023-09-18 https://www.narcity.com
+www.narcity.com##.top-ad-wrapper
+www.narcity.com##div.sidebar-ad-container
+www.narcity.com###Brid_78545243_adContainer
+
+! 2023-09-18 https://www.thespruceeats.com
+www.thespruceeats.com###newsletter--title-form_2-0
+www.thespruceeats.com###header__article-social-share_3-0
+www.thespruceeats.com##.mntl-button.mntl-relish-saved-recipes-btn.relish-save-header.lower-content__relish-save.comp
+
+! 2023-09-18 https://www.allrecipes.com
+www.allrecipes.com###mntl-leaderboard-header_1-0
+
+! 2023-09-20 https://drugfree.org
+drugfree.org##.fun-social-proof-iframe
+
+! 2023-10-12 https://www.theguardian.com
+www.theguardian.com##.dcr-15ipp9x.top-banner-ad-container
+www.theguardian.com##.dcr-1ikbe4v
+www.theguardian.com##nav.dcr-yvt6mp
+www.theguardian.com##.dcr-9l2r49
+www.theguardian.com##gu-island
+www.theguardian.com##.dcr-1r0olb.ad-slot-container
+
+! 2023-10-14 https://www.verywellmind.com
+www.verywellmind.com###mntl-leaderboard-header_1-0
+
+! 2023-10-16 https://www.allrecipes.com
+www.allrecipes.com###mntl-jwplayer-broad__video_1-0
+www.allrecipes.com##.mntl-block.mntl-jwplayer-broad.article__broad-video-jw.comp
+
+! 2023-10-19 https://www.doordash.com
+www.doordash.com##.coTtfQ.sc-a1271921-3 > .dTdXQu.styles__StyledButtonRoot-sc-1ldytso-0
+
+
+! 2023-09-07 https://trakt.tv
+||trakt.tv/assets/nf61220/bg-d59649d3b306288c91e8cba72140a81fb63e2721d6b7da7c5032e338215e92aa.jpg$image
+trakt.tv##.col-sm-6.col-md-4.col-xlg-3.af1a979-grid-item.grid-item > [href="/vip"]
+
+! 2023-09-07 https://georgebrown-ca.zoom.us
+georgebrown-ca.zoom.us###black-topbar > .container
+georgebrown-ca.zoom.us##.noanimate.hidden-xs.new-black-topbar
+
+! 2023-09-08 https://trakt.tv
+trakt.tv##.toast-top-full-width
+trakt.tv##.col-xs-6.col-sm-3.col-md-3.col-lg-2.col-xlg-2.col-xxlg-1.af1a979-grid-item.grid-item > [href="/vip"]
+
+! 2023-09-11 https://www.ubereats.com
+www.ubereats.com##[href="/orders/c391c351-96e0-4448-8633-361d269e1e53"]
+www.ubereats.com##.af.bz.ag.a2v.e9.kb
+
+! 2023-09-19 https://www.1001fonts.com
+www.1001fonts.com##.adWrapper.l
+
+! 2023-10-03 https://www.ablebits.com
+www.ablebits.com##.a19SectionContainer--Scripts.a19SectionContainer
+
+! 2023-10-03 https://www.today.com
+www.today.com##.isScrolledToTop.topbannerAd.ad-container.header-and-footer--banner-ad
+www.today.com##.styles_marqueeBreaking___UAAb
+www.today.com##.layout-grid-container.article-hero__media-holder
+www.today.com##.header-and-footer--static.topbannerAd.ad-container.header-and-footer--banner-ad
+www.today.com##.layout-header
+www.today.com##.topbannerAd.ad-container.header-and-footer--banner-ad
+
+! 2023-10-08 https://www.forkinthekitchen.com
+www.forkinthekitchen.com##[id^="AdThrive"]
+
+##[id^="AdThrive"]
+www.forkinthekitchen.com##slick-sticky-toolbar
+
+! 2023-10-09 https://www.gayot.com
+www.gayot.com##.tpd-banner-ad-container
+www.gayot.com##.clear.sticky.header
+
+! 2023-10-09 https://www.seriouseats.com
+www.seriouseats.com###mntl-leaderboard-header_1-0
+www.seriouseats.com##.mntl-block.mntl-jwplayer-broad.article__broad-video-jw.comp
+
+! 2023-10-13 https://www.allrecipes.com
+www.allrecipes.com###mntl-jwplayer-broad__title_1-0
+
+! 2023-10-13 https://www.epicurious.com
+www.epicurious.com###\36 814b3e6-de9f-410a-3c63-2df73443a802 > iframe
+www.epicurious.com##.grid-layout__aside.grid--item.fVLMby.GridItem-buujkM
+www.epicurious.com##.should-hold-space.ad--mid-content.ad.fZrssQ.AdWrapper-dQtivb
+
+! 2023-10-13 https://www.thespruceeats.com
+www.thespruceeats.com###article__broad-video-jw_1-0
+www.thespruceeats.com##.header__lower.thespruceeats-header__lower
+www.thespruceeats.com###shop-button
+www.thespruceeats.com###relish-shop_1-0
+
+! 2023-10-19 https://ca.indeed.com
+ca.indeed.com##.cmp-InlineMccSurvey-content--desktopCard.cmp-InlineMccSurvey-content
+ca.indeed.com##.nonJobContent-desktop.mosaic-zone
+
+! 2023-10-19 https://www.mashed.com
+www.mashed.com##.between-p.google-ad-placeholder
+
+! 2023-10-19 https://www.goldderby.com
+www.goldderby.com###gd_most_popular_articles-3
+
+##[id^="AdThrive_Content*"]
+
+##[id^="#AdThrive_*"]
+###AdThrive_Content_._desktop
+
+! 2023-10-19 https://sixtyandme.com
+sixtyandme.com###AdThrive_Content_._desktop
+
+quora.com##[role="list"]:upward(.q-box)
+quora.com##[d^="m17.5 9 3 3-3 3.5M3.5"]:upward([class="q-box"])
+
+! 2023-10-20 https://www.quora.com
+www.quora.com##.qu-overflow--hidden.q-box
+
+! 2023-10-20 https://www.eatingwell.com
+www.eatingwell.com##.mntl-block.mntl-jwplayer-broad.article__broad-video-jw.comp
+
+! 2023-10-20 https://www.foodandwine.com
+www.foodandwine.com###mm-ads-leaderboard-header_1-0
+
+! 2023-10-20 https://www.eatingwell.com
+www.eatingwell.com###mntl-leaderboard-header_1-0
+
+! 2023-10-20 https://www.thespruceeats.com
+www.thespruceeats.com##.mntl-block.mntl-sc-block-featuredlink.lifestyle-sc-block-featuredlink.mntl-sc-block.featured-link.comp
+
+! 2023-10-21 https://www.doordash.com
+www.doordash.com##.chNHud.hJhdRU.sc-baaeda45-11.sc-baaeda45-9.gnjBVq.InlineChildren__StyledInlineChildren-sc-6r2tfo-0 > div:nth-of-type(2) > div > div
+
+! 2023-10-21 https://food52.com
+||cdn.jwplayer.com$subdocument
+
+! 2023-10-21 https://languagetool.org
+||languagetool.org/images/snackbar_illustration_word.png$image
+languagetool.org##.snackbar--word.snackbar
+
+! 2023-10-30 https://www.shoesforcrews.com
+www.shoesforcrews.com##a.guarantee__link > [src]
+www.shoesforcrews.com##.gridset.subscribe.site-footer__subscribe
+
+
+! 2023-10-22 https://www.webmd.com
+www.webmd.com###instream-related-mod-3 > .instream-related-module li
+www.webmd.com##.ad-container-101.ad-wrapper
+www.webmd.com##.ad-container-121.ad-wrapper
+www.webmd.com##.ad-container-137.ad-wrapper
+
+! 2023-10-22 https://www.indeed.com
+www.indeed.com##p.e1wnkr790.css-1g5t2dl.rich-text-component:nth-of-type(16)
+
+! 2023-10-22 https://www.healthline.com
+www.healthline.com###m74679707-7dcc-4675-aae6-307ef0a92753mpd_middle_e890f515-905c-4639-bef7-e3a6d164b356
+www.healthline.com##div.css-c9zd8s
+||inline.healthline.com$subdocument
+
+! 2023-10-25 https://www.thegamer.com
+www.thegamer.com##.related-single
+www.thegamer.com##.ad-zone-sidebar-default.ad-zone
+www.thegamer.com##.adsninja-rail-container.sidebar
+www.thegamer.com##.ad-zone-content-every-entry-repeatable.ad-zone
+www.thegamer.com##.ad-zone-content-below-first-paragraph.ad-zone
+www.thegamer.com###articleNewsletterForm
+www.thegamer.com##.article-tags
+
+! 2023-10-25 https://www.intheknow.com
+www.intheknow.com##ul
+www.intheknow.com##.top-bar
+www.intheknow.com##.masthead-container
+www.intheknow.com##.unified-player-wrap
+www.intheknow.com##.text-center
+www.intheknow.com##.entertainment-widget-container
+
+! 2023-10-25 https://ashleyeshannon.medium.com
+ashleyeshannon.medium.com##.ee.ab.wl.gg.wk.wj.gf.wi.du.ge.wh.v.gd.hh.t.gc.hf
+
+! 2023-10-25 https://medium.com
+medium.com##div.pw.pv.pu.pt.ps.pr:nth-of-type(1)
+medium.com##div.pw.pv.pu.pt.ps.pr
+medium.com##.ee.ab.adr.io.adq.adp.in.ado.du.im.adn.v.il.kh.t.ik.kf
+
+! 2023-10-26 https://www.psychologytoday.com
+www.psychologytoday.com##.video-carousel
+
+! 2023-10-28 https://screenrant.com
+screenrant.com##.dynamically-injected-refresh-ad-zone
+screenrant.com##.article-footer
+
+! 2023-11-05 https://www.thecut.com
+www.thecut.com##.ad_static
+www.thecut.com##.ad-splash
+
+! 2023-11-05 https://www.thefourthfloor.co.uk
+www.thefourthfloor.co.uk##.OPT_IN.BUTTON.BOTTOM.DARK.BAR.sqs-cookie-banner-v2
+
+! 2023-11-06 https://www.thebalancemoney.com
+www.thebalancemoney.com##.leaderboard.gpt.mntl-gpt-adunit.mntl-flexible-ad.mntl-flexible-leaderboard.mntl-leaderboard-flex-1.mntl-leaderboard-header.has-right-label.comp
+
+! 2023-11-10 https://www.investopedia.com
+www.investopedia.com###article__broad-video--jw_1-0
+www.investopedia.com###fin-billboard1-sticky-dynamic_1-0
+www.investopedia.com##.article-right-rail.loc
+www.investopedia.com###mntl-native__adunit_1-0
+
+! 2023-11-12 https://www.psychologytoday.com
+www.psychologytoday.com##.pathways_card.d-xl-none
+
+! 2023-11-12 https://www.howtoisolve.com
+www.howtoisolve.com##.adthrive
+
+
+! 2023-10-29 https://www.kijiji.ca
+www.kijiji.ca##.moduleWrapper-4029973050
+
+! 2023-10-30 https://www.benq.com
+www.benq.com##.minisite-header.component-header.component
+
+! 2023-11-03 https://www.linkedin.com
+www.linkedin.com##.relative.flex-column.display-flex.align-items-left.mb4.artdeco-card.p4.mn-sales-navigator-upsell
+www.linkedin.com##.ph4.pv3.full-width.display-flex
+www.linkedin.com##.org-highlight-insights-module__card-spacing
+
+! 2023-11-04 https://www.therapistaid.com
+www.therapistaid.com##.hover\:text-white.hover\:cursor-pointer.hover\:bg-secondary-400.group.text-body-14.text-neutral-900.mb-4.shadow.pb-4.w-full.rounded-lg.bg-white
+www.therapistaid.com##.shadow-sm-left.h-40.w-full.block.adsbygoogle
+
+##.adthrive
+###AdThrive_Content_1_desktop
